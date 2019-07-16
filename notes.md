@@ -9,3 +9,5 @@ Hyper Text Markup Language
 
 <body> tags holds all the visual content that the viewer will see. Such as images, paragraphs, headings and different styles.
 
+Version 8 - Focused on Browser styles
+
